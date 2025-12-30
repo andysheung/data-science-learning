@@ -16,3 +16,11 @@
 [[26. Remove Duplicates from Sorted Array]]
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 [[80. Remove Duplicates from Sorted Array II]]
+
+## 20251226
+[169. Majority Element](https://leetcode.com/problems/majority-element/)
+[[169. Majority Element]]
+
+## 20251229
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+[[121. Best Time to Buy and Sell Stock]]
